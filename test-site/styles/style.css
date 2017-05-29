@@ -1,0 +1,84 @@
+body{
+  background: url(http://orig15.deviantart.net/0941/f/2012/007/8/0/cult_of_the_gate_symbol_by_wakabaru-d4llb8g.png) top right no-repeat;
+  background-attachment: fixed;
+  background-color: brown;
+  margin: 0;
+  padding: 0;
+  }
+
+  .header {
+  }
+
+  #header-text {
+    color: white;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    top: 25%;
+    width: 60%;
+  }
+
+  h1{
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 60px;
+    margin: 0;
+  }
+
+  h2{
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 50%;
+  }
+
+h3{
+  color: white;
+  font-style: oblique;
+  font-size: 25px;
+  padding-top: 50%;
+}
+
+  h4{
+    align-items: center;
+    display: inline;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    border-style: double;
+    border-width: medium;
+    border-color: black;
+}
+
+p{
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 35px;
+
+
+
+}
+  ol{
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+  }
+
+  #wrapper{
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+  #gif{
+   text-align: center;
+   padding-bottom: 50%;
+   height: 100px;
+   width: auto;
+  }
